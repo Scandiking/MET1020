@@ -4,6 +4,11 @@
 
 This is simply a collection of notes in `.md`-format and doesn't relly "belong" on GitHub, it's just a neat redundancy back-up. It will also be in 🇳🇴 Norwegian 🇳🇴 from here on.
 
+
+## Faglig innhold i emnet
+
+Emnet gir en innføring i innsamling, bearbeidelse og tolkning av data. Sentrale temaer er: vitenskapsteori, utarbeidelse av problemstilling, valg av undersøkelsesopplegg, metode og design, planlegging og gjennomføring av undersøkelser, dataanalyse, tolkning og rapportering.
+
 ## Læringsutbytte
 Etter fullført emne skal studenten inneha følgende:  
 
