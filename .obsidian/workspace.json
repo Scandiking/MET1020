@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "554459ed69965ee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb4b2b084b127e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7b08d8ea2f883cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MET1020.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MET1020"
+            }
+          },
+          {
+            "id": "ac0d7b27f9c0032b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kapittel 1 - Hverdagskunnskap og forskning/Empirisk forskning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Empirisk forskning"
+            }
+          },
+          {
+            "id": "7be39f8fd9a5d87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kapittel 1 - Hverdagskunnskap og forskning/Kvalitativ metode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kvalitativ metode"
+            }
+          },
+          {
+            "id": "c04edc520ffa70cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kapittel 1 - Hverdagskunnskap og forskning/Kvantitativ metode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kvantitativ metode"
+            }
+          },
+          {
+            "id": "d09d49c7e7a4d492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kapittel 1 - Hverdagskunnskap og forskning/Forberedelse.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forberedelse"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c2be4f144b4e6318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c12e8143e963ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kapittel 1 - Hverdagskunnskap og forskning/Datainnsamling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datainnsamling"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b89f45bb177bd4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3172e8066fa821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d46f67012f4dff62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f36ef343809bdcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d44ccc0817dbea73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b207c1c6c327ef04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f000eaa3085eeee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff87ab7ac363b887",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kapittel 1/Methodos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Methodos"
+            }
+          },
+          {
+            "id": "0f336c68492a8f02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kapittel 1/Methodos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Methodos"
+            }
+          },
+          {
+            "id": "a76a767110342ec3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "40cc5534cdabfe0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kapittel 1/Methodos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Methodos"
+            }
+          },
+          {
+            "id": "6814dec92535e4c2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "d46f67012f4dff62",
+  "lastOpenFiles": [
+    "Kapittel 26 - Hvordan vurdere slutningsstatistikk",
+    "Kapittel 25 - Beregning av forskjeller mellom grupper - hypotesetesting",
+    "Kapittel 24 - Beregning av sikkerhetsmargin - estimering",
+    "Kapittel 23 - Multippel regresjonsanalyse",
+    "Kapittel 22 - Enkel regresjonsanalyse",
+    "Kapittel 21 - Analyse av årsakssammenhenger - eksperiment og statistisk kontroll",
+    "Kapittel 20 - Fordeling av to egenskaper - bivariat analyse",
+    "Kapittel 19 - Fordeling av én egenskap - univariat analyse",
+    "Kapittel 18 - Datainnsamling ved hjelp av spørreskjema",
+    "Kapittel 17 - Hvem og hva skal forskeren undersøke - Enheter, variabler, verdier og målenivå",
+    "Kapittel 16 - Kvantitative forskningsdesign",
+    "MET1020.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Metodelære.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Datainnsamling.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Dataanalyse.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Forberedelse.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Forskningsprosessen.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Rapportering.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Empirisk forskning.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Kvalitativ metode.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Kvantitativ metode.md",
+    "Kapittel 1 - Hverdagskunnskap og forskning/Methodos.md",
+    "Ikke Næg.md"
+  ]
+}

@@ -1,0 +1,4 @@
+[[Metodelære]]
+
+
+#Kapittel1
