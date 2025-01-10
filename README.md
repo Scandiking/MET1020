@@ -2,7 +2,9 @@
 ## Information Technology and Information Systems
 ### Samfunnsvitenskapelig metode (MET1020)
 
-This is simply a collection of notes in `.md`-format and doesn't relly "belong" on GitHub, it's just a neat redundancy back-up. It will also be in 🇳🇴 Norwegian 🇳🇴 from here on.
+This is simply a collection of notes in `.md`-format and doesn't relly "belong" on GitHub as there is no code here, it's just a neat redundancy back-up. The notes are intended to be used with Obsidian. It will also be in 🇳🇴 Norwegian 🇳🇴 from here on.
+
+Dette er bare en samling med notater i `.md`-format og hører ikke egentlig hjemme på GitHub siden det ikke er noen kode her. Det er bare fin redundans back-up. Notatene er tiltenkt brukt med Obsidian.
 
 
 ## Faglig innhold i emnet
