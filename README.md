@@ -5,7 +5,7 @@
 This is simply a collection of notes in `.md`-format and doesn't relly "belong" on GitHub, it's just a neat redundancy back-up. It will also be in 🇳🇴 Norwegian 🇳🇴 from here on.
 
 ## Læringsutbytte
-Etter fullført emne skal studenten inneha følgende:  
+Etter fullført emne skal studenten inneha følgende: 
 
 __Kunnskap__
 
