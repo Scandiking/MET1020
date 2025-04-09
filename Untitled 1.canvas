@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"9239e4b529b5973d","type":"group","x":-320,"y":-400,"width":480,"height":420,"label":"Enkel casedesign"},
+		{"id":"c3f0b7d87b8d796f","type":"group","x":-320,"y":80,"width":480,"height":420,"label":"Enkel casedesign"},
+		{"id":"18888a6dda25532b","type":"group","x":200,"y":-400,"width":460,"height":400,"label":"Flercasedesign"},
+		{"id":"e80cabf7b16eb67b","type":"text","text":"Kontekst","x":-300,"y":-380,"width":440,"height":380},
+		{"id":"dae7792ef88cb646","type":"text","text":"Case","x":-240,"y":-300,"width":320,"height":260},
+		{"id":"b49ef77694d37c87","type":"text","text":"Kontekst","x":440,"y":-380,"width":200,"height":160},
+		{"id":"f06319e19a807a0d","type":"text","text":"Kontekst","x":440,"y":-200,"width":200,"height":160},
+		{"id":"136eb8a108b59b52","type":"text","text":"Case","x":460,"y":-320,"width":160,"height":80},
+		{"id":"3b8a5d3221094b45","type":"text","text":"Case","x":460,"y":-140,"width":160,"height":80},
+		{"id":"8d3fd2b69b22d8a2","type":"text","text":"Kontekst","x":220,"y":-380,"width":200,"height":160},
+		{"id":"db437f80621c6085","type":"text","text":"Case","x":240,"y":-320,"width":160,"height":80},
+		{"id":"cb405e50b72f22e7","type":"text","text":"Kontekst","x":-120,"y":97,"width":200,"height":160},
+		{"id":"8b3fc24cd46ddb18","type":"text","text":"Case","x":-100,"y":157,"width":160,"height":80}
+	],
+	"edges":[]
+}

@@ -1,0 +1,4 @@
+- Mange respondenter som responderer/svarer på spørsmål fra forskeren
+- Krysse av i spørreskjema eller være med på objektive målinger i et eksperiment (f.eks måle blodtrykk før og etter bruk av medisin), gjennomføre en test (f.eks en IQ test)
+- Forsker er EKSPERT
+- Godt egnet når man vil generalisere (så mye tid bruker norsk ungdom på SoMe og slik mener de at sosiale medier påvirker dem)

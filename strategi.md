@@ -1,0 +1,2 @@
+[[Kvalitativ strategi]]
+[[Kvantitativ strategi]]

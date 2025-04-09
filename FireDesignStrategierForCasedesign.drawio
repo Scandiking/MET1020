@@ -1,0 +1,142 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="znQ9wLVMtTrta6ov0dlZ">
+    <mxGraphModel dx="472" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1paitWg-ujct-3siJnYl-1" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-2" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-3" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-4" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-5" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-6" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="585" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-7" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-8" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-9" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-10" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-11" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-12" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-13" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-14" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-15" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-17" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-18" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-19" value="Kontekst" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-20" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-21" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-22" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="580" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-23" value="Case" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-24" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="605" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-25" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="615" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-26" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="605" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-27" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="615" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-28" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="530" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-29" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="540" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-30" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="530" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-31" value="Innebygget analyseenhet 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;dashed=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="540" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="640" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="460" as="sourcePoint" />
+            <mxPoint x="480" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-34" value="Enkel casedesign" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-35" value="Flercasedesign" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-36" value="Holistisk (en analyseenhet)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="320" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-37" value="Innebygget (flere analyse-enheter)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="520" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-38" value="Within case" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-39" value="Cross case" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-40" value="TYPE 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-41" value="TYPE 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-42" value="TYPE 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1paitWg-ujct-3siJnYl-43" value="TYPE 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="675" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

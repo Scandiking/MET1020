@@ -1,0 +1,4 @@
+- Få informanter som informerer forskeren om temaet som studeres
+- Samtaler/intervjuer eller observasjoner og deltagelse i et fenomen
+- Informanten er EKSPERT
+- Godt egnet når man vet lite om temaet/emnet, eller ønsker å gå i dybden

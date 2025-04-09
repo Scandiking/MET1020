@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="ewjqJZ3eXKlr2SFMV9ts">
+    <mxGraphModel dx="1382" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-1" target="6fgARZWcUmVJMFy4IKfH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-1" value="Idé" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-2" target="6fgARZWcUmVJMFy4IKfH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-2" value="Dataanalyse" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-3" target="6fgARZWcUmVJMFy4IKfH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-3" value="Datainnsamling" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-4" target="6fgARZWcUmVJMFy4IKfH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-4" value="Strategi og design" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-5" target="6fgARZWcUmVJMFy4IKfH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-5" value="Problemstillingen" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-6" value="Rapportering" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-7" target="6fgARZWcUmVJMFy4IKfH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-7" value="Forskerens interesser" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-14" target="6fgARZWcUmVJMFy4IKfH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-14" target="6fgARZWcUmVJMFy4IKfH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-14" target="6fgARZWcUmVJMFy4IKfH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-14" target="6fgARZWcUmVJMFy4IKfH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-14" target="6fgARZWcUmVJMFy4IKfH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-14" value="Tidligere forskning og teori" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-20" target="6fgARZWcUmVJMFy4IKfH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-20" target="6fgARZWcUmVJMFy4IKfH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-20" value="Brukere, kunder" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-23" target="6fgARZWcUmVJMFy4IKfH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-23" target="6fgARZWcUmVJMFy4IKfH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#808080;strokeColor=#808080;" edge="1" parent="1" source="6fgARZWcUmVJMFy4IKfH-23" target="6fgARZWcUmVJMFy4IKfH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-23" value="Forskningsetiske vurdering" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="320" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6fgARZWcUmVJMFy4IKfH-27" value="Forberede" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="200" width="80" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

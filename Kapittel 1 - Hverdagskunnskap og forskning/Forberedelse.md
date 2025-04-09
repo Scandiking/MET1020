@@ -4,4 +4,9 @@
 - Formål
 - Forskningsdesign
 
+[[problemanalyse]]
+[[problemstilling]]
+
+
+
 #Kapittel1 

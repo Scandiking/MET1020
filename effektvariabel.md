@@ -1,0 +1,1 @@
+>[!CITE] Effektvariabelen er et resultat av påvirkning fra årsaksvariabelen og er derfor også en avhengig variabel. 

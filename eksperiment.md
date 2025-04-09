@@ -1,0 +1,5 @@
+[[Ekte eksperiment]]
+[[Kvasieksperiment]]
+
+
+

@@ -2,11 +2,12 @@
 
 [[Empirisk forskning]]
 
+
 #Kapittel1
 
 
 #flashcards
 Hva betyr methodos?::Å følge en bestemt vei mot et mål
-<!--SR:!2025-01-13,3,250-->
+<!--SR:!2025-03-01,20,250-->
 Hva har samfunnsvitenskapene til hensikt å bidra med?::Hvordan virkeligheten ser ut
-<!--SR:!2025-01-13,3,250-->
+<!--SR:!2025-05-07,30,230-->

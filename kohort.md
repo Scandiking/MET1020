@@ -1,0 +1,1 @@
+>[!CITE] Kohort betyr "gruppe", og en [[kohortundersøkelse]] er en undersøkelse der de som deltar, deler en felles livsbegivenhet. En kohort kan være personer som er født samme år, men det kan også være en gruppe som strekker seg over et større tidsspenn, for eksempel "etterkrigsgenerasjonen", som kunne avgrenses til dem som er født fra og med 1945 til og med 1949.

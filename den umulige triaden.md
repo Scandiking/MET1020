@@ -1,0 +1,1 @@
+Man må prioritere mellom ulike hensyn som validitet, realistiske betingelser, og generaliserbarhet. Dette omtales ofte som "[[den umulige triaden]]", hvor det er umulig å oppnå alle tre dimensjoner fullt ut samtidig.
