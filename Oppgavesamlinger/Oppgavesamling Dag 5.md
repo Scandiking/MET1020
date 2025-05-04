@@ -8,6 +8,8 @@ tags:
 Øvingsoppgaver: https://usn.instructure.com/courses/33297/pages/dag-5
 Quiz: https://usn.instructure.com/courses/33297/quizzes/19095
 ---
+# Oppgaver
+## Oppgave A
 
 >[!QUESTION] # Oppgave A
 >Når man skal gjennomføre et forskningsarbeid må man planlegge hvordan [[undersøkelse]]n skal gjennomføres.
@@ -66,7 +68,7 @@ A --> C["Blande metoder"]
 >```
 
 
-
+## Oppgave B
 
 >[!QUESTION] # Oppgave B
 >I kvantitative [[forskningsdesign]] brukes det som oftest et [[sannsynlighetsutvalg]] når man skal velge [[enhet]]er til studien.
@@ -83,6 +85,8 @@ A --> C["Blande metoder"]
 >|  Enkel tilfeldig trekning | _blir trukket fra hele populasjonen og alle enheter har like stor sannsynlighet for å bli plukket ut_ Johannessen, 2021, s. 276 [^1] |
 >| Stratifisert utvelgelse | Populasjonen deles inn i [[strata]] ut fra bestemte egenskaper. _Fra hvert stratum trekkes et bestemt antall enheter til utvalget ved enkel tilfeldig eller systematisk utvelgelse_ Johannessen, 2021, s. 277 [^1] |
 >| Klyngeutvelgelse | _Enhetene grupperes sammen i klynger. Et visst antall klynger trekkes ut. utvalget kan bestå av alle enheter i disse klyngene, eller det kan foretas utvelgelse innenfor de uttrukne klyngene igjen. På hvert trinn i utvelgelsen brukes enkel tilfeldig eller systematisk utvelgelse, eventuelt med stratifisering_ Johannessen, 2021, s. 277 [^1] |
+
+## Oppgave C
 
 >[!QUESTION] # Oppgave C
 >I kvantitative studier benyttes oftest et standardisert [[spørreskjema]] for å samle inn [[data]]. Dette distribueres til [[respondent]]er på ulik måte.
@@ -122,11 +126,13 @@ A --> C["Blande metoder"]
 >[!ANSWER] Hvorfor skiller vi på variablenes målenivå?
 >Fordi _verdiene på variabler kan i noen tilfeller bare klassifiseres som forskjellige kategorier, for eksempel hvilket fagfelt man arbeider i. I andre tilfeller kan verdier rangeres, for eksempel høyeste fullførte utdanning og alder_[^1]
 
+## Oppgave D
+
 >[!QUESTION] # Oppgave D
 >Måling har en sentral plass i den kvantitative forskningstradisjonen. Ofte brukes såkalte sammensatte mål eller målemodeller i et spørreskjema.
 >- a) Hvorfor bruker man slike [[sammensatte mål]]?
 
-
+## Oppgave E
 
 
 >[!question] # Oppgave E
@@ -136,10 +142,97 @@ A --> C["Blande metoder"]
 
 >[!ANSWER]
 
+## Oppgave F
 
 >[!QUESTION] # Oppgave F
 >Hva mener man med [[bortfall]] i en kvantitativ undersøkelse?
 >Hvorfor foretar man såkalte [[bortfallsanalyse]]r?
+
+# Flashcards
+
+#flashcards #flashcards/dag5
+
+## Oppgave A
+
+Hvilke kvantitative forskningsdesign kjenner du til? Forklar litt om hver av dem.
+?
+>- [[Tverrsnittsundersøkelse]]
+>	- Gir et øyeblikksbilde av fenomenet vi studerer
+>- [[Longitudinell undersøkelse]]
+>	- Undersøkelse der data samles inn på flere enn ett tidspunkt, to tre eller flere
+>		- Tidsserieundersøkelse
+>			- samler inn data fra en populasjon over tid
+>		- Gjentatte tverrsnittsundersøkelser
+>			- sammenligne utvalgsundersøkelser som gjentas over tid
+>- [[Panelstudie]]
+>	- En panelundersøkelse er en undersøkelse som gjennomføres på to eller flere tidspunkter med de samme deltakerne
+>- [[Kohortundersøkelse]]
+>	- Kohortundersøkelse er en undersøkelse der de som deltar, deler en felles livsbegivenhet. Født samme år, eller "etterkrigsgenerasjonen" (1945-1949)
+>- [[Eksperiment]]
+>	- Det klassiske med en eksperimentgruppe og en kontrollgruppe
+>- [[Kvasieksperiment]]
+>	- Eksperimentlignende men kravet om tilfeldig utvalg er ikke utført
+>- [[Evaluering]]
+>	- Systematisk innsamling av data for å skille og analysere virkningen av et forsøk på å skape endring på et gitt område
+>_Johannessen, 2021, s. 265-272_[^1]
+
+
+
+Hva er mixed methods og hvilke typer av mixed methods kjenner du til?
+?
+Mixed Methods er forskning der forskeren samler, analyserer, tolker og trekker konklusjoner på bakgrunn av både kvalitative og kvantitative data.
+Metodetriangulering
+Forklarende design
+Utforskende design
+Integrert design
+
+## Oppgave B
+
+Forklar hvorfor sannsynlighetsutvalg er så viktig i kvantitative studier.
+?
+Fordi konklusjonen av forskningen er forventet å skulle kunne generaliseres og tilfeldig utvalg øker sjansen for dette betraktelig
+
+
+
+Redegjør for hvordan man kan trekke enheter i et sannsynlighetsutvalg
+?
+
+
+
+## Oppgave C
+
+Redegjør for hva som er nettoutvalg, bruttoutvalg, populasjon og enheter i en kvantitativ spørreundersøkelse.
+?
+
+
+I kvantitative studier snakker vi om en variabels målenivå. Formuler tre spørsmål som vil gi verdier på henholdsvis nominalnivå, ordinalnivå og intervallnivå (du kan lage spørsmål tilpasset hvilket som helst tema).
+?
+
+Hvorfor skiller vi på variablenes målenivå?
+?
+
+## Oppgave D
+
+Måling har en sentral plass i den kvantitative forskningstradisjonen. Ofte brukes såkalte sammensatte mål eller målemodeller i et spørreskjema. Hvorfor bruker man slike sammensatte mål?
+?
+
+
+
+## Oppgave E
+
+I kvantitativ forskning bruker man ofte spørreskjema. Redegjør for de viktigste prinsippene for utarbeiding av slike spørreskjemaer.
+?
+
+Hvorfor er det så viktig med gode teoretiske definisjoner i kvantitativ forskning?
+?
+
+## Oppgave F
+
+Hva mener man med bortfall i en kvantitativ undersøkelse?
+?
+
+Hvorfor foretar man såkalte bortfallsanalyser?
+?
 
 
 

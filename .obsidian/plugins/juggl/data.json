@@ -8,7 +8,7 @@
     {
       "filter": "class:dangling",
       "color": "rgb(171, 171, 171)",
-      "shape": "ellipse",
+      "shape": "rectangle",
       "icon": {
         "name": "No icon",
         "path": "",

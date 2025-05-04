@@ -97,3 +97,108 @@ I den kvalitative forskningsstrategien vil man velge informanter slik at man kan
 
 
 #Oppgavesamling 
+
+---
+
+#flashcards #flashcards/dag3
+
+# Flashcards
+
+## Oppgave A
+
+Forklar hva som menes med strategisk eller teoretiske valg av informanter og hvorfor dette er så viktig i den kvalitative forskningsstrategien.
+?
+Det er viktig fordi man typisk har få informanter i den kvalitative forskningen. Derfor er det viktig at man vet at den man skal intervjue eller observere har mye informasjon å komme med om det som skal forskes på.
+
+
+Redegjør for noen ulike utvalgsteknikker som kan benyttes for å skaffe informanter i kvalitative undersøkelser (begrens deg til et fåtall hovedtyper).
+?
+Patton opererer med rundt 40 forskjellige utvalgsteknikker, men disse kan sorteres i åtte hovedtyper.
+1. Signifikante enkeltcaser
+2. Sammenliknende utvalg
+3. Utvalg basert på gruppekarakteristikker
+4. Konsept- eller teoribaserte utalg
+5. Instrumentelt bruke flercaseutvalg
+6. Analytisk baserte utvalg
+7. Strategisk utvalgsmiks
+8. Informasjonsrike utvalg
+
+## Oppgave B
+
+Redegjør for forskjellene mellom et strukturert, et semistrukturert og et ustrukturert samtaleintervju.
+?
+Forskjellene er graden av struktur, hvor et strukturert intervju er meget rigid, man har fastlagt tema, spørsmålene og rekkefølgen på spørsmålene. Spørsmålene er typisk mer åpne enn i et spørreskjema. Et ustrukturert samtaleintervju ligner mer på en kaffeprat i og med at det er uformelt, men handler om tema. Et semistrukturert intervju ligger i mellom og er den vanligste formen, hvor man har en overordnet intervjuguide som utgangspunkt.
+
+Hvilke styrker og svakheter har de tre formene for samtaleintervju?
+?
+- Styrker med strukturert intervju
+	- Alle informantene får de samme spørsmålene
+	- Effektivt for å samle inn spesifikke data systematisk
+	- Mindre påvirkning av intervjuers subjektivitet
+- Svakheter med strukturert intervju
+	- Begrenset fleksibilitet, noe som kan føre til at viktige temaer ikke blir utforsker
+	- Kan virke "stivt" og hindre informantens mulighet til å utdype svar
+	- Mindre egnet for komplekse og ukjente fenomener
+- Styrker med semistrukturert intervju
+	- Balanse mellom struktur og fleksibilitet
+	- Tillater informanter å utdype svarene sine, som kan gi rikere data
+- Svakheter med semistrukturert intervju
+	- Kan være tidkrevende å gjennomføre og analysere
+	- Intervjuerens ferdigheter og subjektivitet kan påvirke datainnsamlingen
+	- Mindre standardisering enn strukturert intervju som kan gjøre sammenligning vanskeligere
+- Styrker med ustrukturert intervju
+	- Stor fleksibilitet, gir mulighet til dybde i informantens erfaringer og perspektiver
+	- Kan skape en mer naturlig samtale
+- Svakheter med ustrukturert intervju
+	- Ikke alle informanter får de samme spørsmålene
+	- Krever høy kompetanse fra  intervjueren for å styre samtalen uten å påvirke svarene
+	- Kan være tidkrevende både å gjennomføre og analysere
+
+Hva er en intervjuguide, og hvordan kan den se ut?
+?
+En intervjuguide er en liste over tema og generelle spørsmål som skal gjennomgås
+
+## Oppgave C
+
+Redegjør kort for de fire ulike rollene (i feltobservasjon og samtaleintervju)
+?
+1. Fullstendig deltaker
+	- Forskeren deltar fullt ut i aktiviteten eller miljøet som forskes på, uten å avsløre sin rolle som forsker
+2. Deltaker som observatør
+	- Forskeren deltaker aktivt, men informerer deltakerne om sin rolle som forsker
+3. Fullstendig observatør
+	- Forskeren observerer uten å delta eller interagere med deltakerne
+4. Observatør som deltaker
+	- Forskeren observerer primært, men deltar i mindre grad for å få bedre innsikt
+
+Hvilke fordeler og ulemper kan de fire ulike rollene i feltobservasjon og samtaleintervju ha?
+?
+1. Fullstendig deltaker
+	- Fordel: gir dyp innsikt og tilgang til autentiske opplevelser
+	- Ulempe: Risiko for bias og etiske utfordringer knyttet til skjult observasjon
+2. Deltaker som observatør
+	- Fordel: Gir tilgang til innsikt samtidig som forskeren kan stille spørsmål direkte
+	- Ulempe: Forskerens tilstedeværelse kan påvirke deltakernes atferd (Hawthorne-effekten).
+3. Fullstendig observatør
+	- Fordel: minimal påvirkning på det som studeres
+	- Ulempe: Begrenset tilgang til deltakernes perspektiver og opplevelser
+4. Observatør som deltaker
+	- Fordel: kombinerer observasjon med mulighet for å stille spørsmål og få kontekst
+	- Ulempe: balansen mellom observasjon og deltakelse kan være utfordrende
+
+## Oppgave D
+
+Redegjør for observasjonens styrke som datainnsamlingsteknikk
+?
+Den primære styrken er tilgang til naturlig atferd, siden man gjerne sier noe annet enn det man gjør. Dette viser for eksempel indirekte observasjon som cookies i nettleseren. En annen styrke er den ikke-verbale kommunikasjonen som kroppsspråk, ansiktsuttrykk og andre ikke-verbale signaler. Man får også direkte tilgang til det man ønsker å forske på. Foregår i sanntid.
+
+Redegjør for dybdeintervjuets styrke som datainnsamlingsteknikk
+?
+Når man vil gå i dybden på informantens forståelser, følelser, erfaringer, oppfatninger, meninger, holdninger og refleksjoner knyttet til et fenomen. Man får også en kontekstuell fortsåelse og mulighet for oppklaring
+
+Hvilke faktorer kan true kvaliteten på data som er samlet inn ved hjelp av observasjon og/eller dybdeintervju?
+?
+Forskerens egen subjektivitet og ordvalg, forventninger og tolkninger. Hawthorne-effekten er relevant når detalkerne vet at de blir observert eller intervjuet. Det er også en fare for manglende tillit eller gode gamle misforståelser.
+
+
+

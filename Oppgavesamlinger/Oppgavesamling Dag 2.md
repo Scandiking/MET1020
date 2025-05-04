@@ -227,3 +227,238 @@ Det er primært skiller dem fra hverandre er graden av kontroll, tidsbruk, og hv
 [^1]: Johannessen, A., Tufte, P. A.,Christoffersen, L. (2021). _Introduksjon til Samfunnsvitenskapelig metode_ , 6. utg. Abstrakt Forlag.
 
 #Oppgavesamling
+
+---
+
+# Flashcards
+
+#flashcards/dag2
+
+## Oppgave A
+
+Beskriv de viktigste trekkene ved kvalitative og kvantitative forskningsstrategier, med fokus på forskjellene mellom dem
+?
+Kvalitative forskningsstrategier:
+- Fokus på dybdeforståelse av fenomener
+- Samler inn ikke-numeriske data, som tekst, intervjuer eller observasjoner
+- Utforsker mening, opplevelser og kontekst
+- Bruker ofte fleksible og åpne tilnærminger
+Kvantitative forskningsstrategier:
+- Fokus på måling og generalisering
+- Samler inn numeriske data som kan analyseres statistisk
+- Tester hypoteser og ser etter mønstre og sammenhenger
+- Bruker ofte strukturerte og standardiserte metoder
+Kvalitative metoder søker dybde og kontekst, mens kvantitative metoder søker bredde og generaliserbarhet.
+
+Forklar hvorfor sannsynlighetsutvalg er viktig i kvantitativ forskning, mens teoretiske valg står sentralt i kvalitativ forskning?
+?
+Sannsynlighetsvalg er viktig i kvantitativ forskning for å sikre representativitet og generaliserbarhet til en større populasjon. Gir mulighet til å bruke statistiske analyser og trekke konklusjoner om sammenhenger.
+Teoretiske valg er viktig i kvalitativ forskning for å velge informanter eller cases som kan gi dyp innsikt i det spesifikke fenomenet som undersøkes. Målet er ikke generalisering, men å forstå konteksten og utvikle teori.
+
+
+Redegjør for noen ulike utvalgsteknikker som kan benyttes i kvalitative undersøkelser (begrens deg til et fåtall hovedtyper)
+?
+1. Signifikante enkeltcaser
+2. Sammenliknende utvalg
+3. Utvalg basert på gruppekarakteristikker
+4. Konsept- eller teoribaserte utvalg
+5. Instrumentelt brukte flercaseutvalg
+6. Analytisk baserte utvalg
+7. Strategisk utvalgsmiks
+8. Informasjonsrike utvalg
+
+## Oppgave B
+
+Hensikten med et forskningsprosjekt kan være å 1) eksplorere/oppdage, 2) å beskrive/kartlegge 3) å forklare årsaker 4) å forstå et fenomen eller 5) å endre. Forklar ønsket/målet bak hver tilmærming mer detaljert? 
+?
+1) Målet med eksplorering er å undersøke et lite kjent eller nytt fenomen for å generere ideer, hypoteser eller innsikt. Brukes ofte som et første steg i forskningen når det er lite eksisterende kunnskap.
+2) Målet med å beskrive og kartlegge er å gi en detaljert og systematisk beskrivelse av et fenomen, situasjon eller populasjon. Fokus på "hva", "hvor", og "hvor mange".
+3) Målet med å forklare årsaker er å identifisere årsakssammenhenger og forstå hvorfor noe skjer. Fokus på å teste hypoteser og å etablere kausale relasjoner.
+4) Målet med å forstå et fenomen er å få en dypere innsikt i meninger, opplevelser eller prosesser knyttet til et fenomen. Fokus på kontekst og subjektive opplevelser.
+5) Målet med å endre er å bruke forskningen til å påvirke eller forbedre praksis, politikk eller samfunnsforhold. Ofte knyttet til anvendt forskning eller aksjonsforskning.
+
+
+
+Hensikten med et forskningsprosjekt kan være å 1) eksplorere/oppdage, 2) å beskrive/kartlegge 3) å forklare årsaker 4) å forstå et fenomen eller 5) å endre. Hva tenker du om å benytte henholdsvis kvalitativ og/eller kvantitativ tilnærming for å oppnå de ulike målene?
+?
+1. Eksplorere/oppdager
+	- Kvalitativ
+		- Ideell for å utforske ukjente fenomener gjennom åpne intervjuer, observasjoner eller tekstanalyse
+	- Kvantitativ
+		- Mindre vanlig, men kan brukes til å identifisere mønstre i store datasett
+2. Beskrive/kartlegge
+	- Kvalitativ
+		- Kan brukes til å beskrive opplevelser eller kontekster i dybden
+	- Kvantitativ
+		- Effektiv for å kartlegge omfang, frekvens eller trender i en populasjon
+3. Forklare årsaker
+	- Kvalitativ
+		- Kan gi innsikt i komplekse årsakssammenhenger i spesifikke kontekster
+	- Kvantitativ
+		- Foretrukket for å teste hypoteser og etablere kausale relasjoner gjennom eksperimenter eller statistiske analyser
+4. Forstå et fenomen
+	- Kvalitativ
+		- Best egnet for å forstå meninger, opplevelser og prosesser i dybden.
+	- Kvantitativ
+		- Kan brukes til å identifisere mønstre eller sammenhenger, men gir mindre kontekstuell innsikt
+5. Endre
+	- Kvalitativ
+		- Kan brukes til å forstå hvordan endringer påvirker mennesker og kontekster
+	- Kvantitativ
+		- Effektiv for å evaluere effekten av intervensjoner eller tiltak i større skala
+
+
+
+## Oppgave C
+Forklar hva en teoretisk begrepsdefinisjon er og hvorfor det ofte er nødvendig å utarbeide/formulere teoretiske begrepsdefinisjoner tidlig i en forskningsprosess.
+?
+En teoretisk begrepsdefinisjon er en abstrakt og konseptuell forklaring av hva et begrep betyr innenfor rammen av en teori. Den beskriver begrepets innhold og grenser på et overordnet nivå. Eksempel: "sosial kapital" kan teoretisk defineres som nettverk av relasjoner som gir tilgang til ressurser.
+
+
+
+Forklar hva som menes med operasjonalisering eller operasjonell begrepsdefinisjon i samfunnsvitenskapelig forskning.
+?
+Operasjonalisering er prosessen med å gjøre abstrakte begreper målbare og observerbare ved å definere hvordan de skal måles eller registreres i praksis. En operasjonell begrepsdefinisjon er en konkret og praktisk beskrivelse av hvordan et begrep skal måles eller observeres i en spesifikk studie. Dette gjør det mulig å samle inn data som kan analyseres.
+<!--SR:!2025-05-05,1,230-->
+
+
+## Oppgave D
+
+I forelesningen er det referert til McGrath (1982) som sier at alle design er dårlige. Hva mener han med dette?
+?
+Han tenker på umulighetstriangelet der man må balansere mellom tre hovedhensyn og valget går alltid på bekostning av en av kantene i trekanten. Disse kantene er generaliserbarhet (hvor godt funnene kan overføres til andre situasjoner eller populasjoner), presisjon (hvor nøyaktige og kontrollerte målingene er), og realistisk kontekst (hvor godt designet reflekterer virkelige forhold), og at det er umulig å maksimere alle tre samtidig.
+
+
+
+Hvilke styrker og svakheter har følgende forskningsdesign: 
+- Laboratorieeksperimenter
+- Feltstudier (med bruk av observasjon og dybdeintervju)
+- Store spørreskjemastudier
+?
+Laboratorieeksperimenter
+- Styrker
+	- Høy kontroll over variabler, noe som gjør det lettere å etablere kausale sammenhenger
+	- Reproduserbare under identiske forhold
+- Svakheter
+	- Lav økologisk validitet (ikke alltid realistiske omgivelser)
+	- Begrenset generaliserbarhet til virkelige situasjoner
+Feltstudier (med bruk av observasjon og dybdeintervju)
+- Styrker
+	- Høy økologisk validitet, da de foregår i naturlige omgivelser
+	- Gir dyp innsikt i kontekst og mening
+- Svakheter
+	- Lav kontroll over variabler, noe som gjør det vanskelig å etablere kausale sammenhenger
+	- Kan være tidkrevende og ressurskrevende
+Store spørreskjemastudier
+- Styrker
+	- Kan samle inn data fra store populasjoner, noe som gir høy generaliserbarhet
+	- Effektivt og relativt kostnadseffektivt
+- Svakheter
+	- Begrenset dybde og kontekstualisering av svarene
+	- Risiko for skjevheter, som lav svarprosent eller misforståelse av spørsmål
+
+
+## Oppgave E
+
+Det finnes flere ulike måter å organisere en empirisk undersøkelse på, og man kan si at alle design har sine styrker og svakheter. I forelesning har det vært fokusert på tre konfliktfylte ønsker for forskningen og at det er umulig å oppfylle alle tre i en og samme studie. Forklar hvilke tre ønsker det er snakk om.
+?
+Generaliserbarhet (ekstern validitet), presisjon (intern validitet), realistisk kontekst (økologisk validitet).
+Det er umulig å maksimere alle tre ønskene i én og samme studie. For eksempel:
+- Et laboratorieeksperiment gir høy presisjon, men lav generaliserbarhet og realisme.
+- En feltstudie gir høy realisme, men lav presisjon og generaliserbarhet.
+- En stor spørreundersøkelse gir høy generaliserbarhet, men lav presisjon og realisme.
+Forskerens oppgave er derfor å balansere disse ønskene ut fra forskningsspørsmålet og prioriteringene i studien.
+Vi kan snakke om fem typer forskningsdesign. Eksperiment, tverrsnitt, longitudinell, casestudie og komparativ. Redegjør for disse fem designene og forklar hvilke styrker og svakheter hver av dem har (relater gjerne til de tre ønskene for forskning).
+
+## Oppgave F
+
+Eksperimentet er det klassisk vitenskapelige designet i naturvitenskapene, men det benyttes også i samfunnsvitenskapen. Hva vil du si er styrken til det eksperimentelle design?
+?
+Man har høy kontroll på variablene man tester siden man tester i et kontrollert miljø, og dermed validiteten.
+
+Redegjør for hvilke faktorer som kan true eksperimentets validitet.
+?
+Lavt utvalg, seleksjonsbias, undersøkelses-tretthet, tidsvaliditet, operasjonalisering
+
+Hvilke typer eksperimentelle design kjenner du til, og hva skiller dem fra hverandre?
+?
+Ekte eksperiment (randomisert kontrollert studie)
+Kvasieksperiment
+<!--SR:!2025-05-06,3,250-->
+
+## Oppgave G
+
+Redegjør kort for de ulike hovedtypene kvantitative design som finnes.
+?
+- Tverrsnitt
+	- Data samles inn på ett tidspunkt for å beskrive en populasjon eller undersøke sammenhenger mellom variabler. Eksempel: spørreundersøkelser som kartlegger holdninger eller vaner i en befolkning.
+- Langsgående (longitudinell)
+	- Data samles inn over tid for å studere endringer eller utvikling. Eksempel: spørreundersøkelser som kartlegger holdninger eller vaner i en befolkning.
+- tidsserie
+	- Gjentatte målinger av samme variabler over tid for å identifisere mønstre eller trender. Eksempel: måling av arbeidsledighet månedlig over flere år.
+- panel
+	- Data samles inn fra samme gruppe individer (panel) over tid. Eksempel: studier som undersøker hvordan holdninger til politikk endrer seg blant samme personer over flere valg.
+- kohort
+	- Fokuserer på en spesifikk gruppe (kohort) som deler en felles egenskap, og følger dem over tid. Eksempel: studier som følger personer født i samme årskull for å undersøke helseutvikling.
+- eksperimentelle design
+	- manipulasjon av uavhengige variabler og kontroll over forstyrrende variabler, med tilfedldig tildeling til eksperiment- og kontrollgrupper. eksempel: randomiserte kontrollerte studier (RCT).
+- kvasieksperiment
+	- Mangler tilfeldig tildeling, men inkkluderer en form for kontrollgruppe eller pretest-posttest. Eksempel: studier som evaluerer effekten av en ny politikk uten randomisering.
+
+
+
+Hvilke styrker og svakheter har de ulike hovedtypene kvantitative design?
+?
+- Tverrsnittundersøkelse
+	- Styrke
+		- Effektive og kostnadseffektive
+		- Gir et øyeblikksbilde
+	- Svakheter
+		- Kan ikke fastslå kausalitet, kun korrelasjoner
+- Langsgående (longitudinelle) studier
+	- Styrke
+		- Kan identifsere årsakssammenhenger og utviklingstrender
+	- Svakheter
+		- Tidkrevende og risiko for frafall blant deltakere
+- Tidsseriestudier
+	- Styrke
+		- Kan analysere endringer over tid og effekten av spesifikke hendelser
+	- Svakheter
+		- Kan være sårbare for eksterne faktorer som påvirker resultatene
+- Panelstudier
+	- Styrke
+		- Kan studiere individuelle endringer over tid
+	- Svakhet
+		- Risiko for frafall og panel-effekter
+- Kohortstudier
+	- Styrker
+		- Kan studere spesifikke grupper og deres utvikling
+	- Svakheter
+		- Tidkrevende og kan være vanskelig å generalisere til andre gruper
+- Eksperimentelle design
+	- Styrker
+		- Høy intern validitet, kausalitet kan etableres
+	- Svakheter
+		- Lav økologisk validitet, ofte ressurskrevende
+- Kvasi-eksperimentelle design
+	- Styrker
+		- Praktisk når randomisering ikke er mulig, mer realistisk kontekst
+	- Svakheter
+		- Lavere intern validitet enn ekte eksperimenter
+
+
+
+Redegjør kort for de mest vanlige kvalitative datainnsamlingsmetodene som benyttes.
+?
+Dybdeintervju
+- Individuelle, semi-strukturerte eller ustrukturerte samtaler for å få dyp innsikt i deltakernes opplevelser, tanker og perspektiver
+Fokusgrupper
+- Gruppeintervjuer hvor flere deltakere diskuterer et tema, ofte ledet av en moderator
+Observasjon
+- Systematisk registrering av atferd, handlinger eller hendelser i en naturlig setting. Kan være deltakende eller ikke-deltakende.
+Dokumentanalyse
+- Analyser av eksisterende tekster, bilder, rapporter, videoer eller andre dokumenter for å forstå kontekst og innhold
+Feltarbeid
+-
+Narrativ metode
+<!--SR:!2025-05-06,3,250-->

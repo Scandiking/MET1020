@@ -105,3 +105,66 @@ Kort oppsummert:
 [^1]: Johannessen, 2021, s. 156
 
 #Oppgavesamling 
+
+# Flashcards
+
+#flashcards #flashcards/dag4
+
+## Oppgave A
+
+I den kvalitative forskningsstrategien er samtaleintervjuer (dybdeintervjuer) ofte benyttet som datainnsamlingsteknikk. Ofte lages det en intervjuguide. Redegjør for hvilke ulike typer spørsmål en intervjuguide bør inneholde.
+?
+En intervjuguide bør inneholde følgende typer spørsmål:
+1. **Faktaspørsmål**  
+   - Enkle spørsmål som etablerer en relasjon og bygger tillit mellom forskeren og informanten.  
+   - Eksempel: "Hva jobber du med?"  
+2. **Introduksjonsspørsmål**  
+   - Spørsmål som retter oppmerksomheten mot temaet og gir en myk overgang til hoveddelen av intervjuet.  
+   - Eksempel: "Kan du fortelle litt om hvordan du først ble involvert i dette?"  
+3. **Overgangsspørsmål**  
+   - Spørsmål som leder samtalen fra generelle temaer til mer konkrete saker.  
+   - Eksempel: "Hvordan påvirker dette din hverdag?"  
+4. **Nøkkelspørsmål**  
+   - Spørsmål som utgjør kjernen i intervjuet og fokuserer på hovedtemaene forskeren ønsker å utforske.  
+   - Eksempel: "Hva er dine tanker om hvordan dette kan forbedres?"  
+5. **Kompliserte og sensitive spørsmål**  
+   - Spørsmål som krever forsiktighet, da de kan være personlige eller emosjonelt krevende for informanten. Disse bør introduseres gradvis og med respekt.  
+   - Eksempel: "Hvordan har dette påvirket deg følelsesmessig?"  
+6. **Avslutning**  
+   - Spørsmål som avrunder intervjuet på en trygg og positiv måte, spesielt viktig etter sensitive temaer. Målet er å sikre at informanten ikke forlater intervjuet i en negativ tilstand.  
+   - Eksempel: "Er det noe mer du ønsker å dele før vi avslutter?"  
+Denne strukturen sikrer en naturlig flyt i intervjuet og ivaretar både datainnsamlingens kvalitet og informantens velvære.
+
+
+
+Forklar kort hva som er hovedfokuset/idéen bak de ulike måtene å lese tekst på. Henholdsvis:
+1. Bokstavelig eller ordrett lesing
+2. Tolkende lesing
+3. Refleksiv lesing
+?
+Bokstavelig lesing: å forstå teksten på et overflate-nivå, slik den fremstår uten å lete etter underliggende betydninger. 
+Tolkende lesing: utforske tekstens underliggende mening, intensjoner og budskap. Forstå hva teksten kan formidle utover det som står direkte skrevet.
+Refleksiv lesing: relatere teksten til egne erfaringer, tanker og kontekst. Bruke teksten som kilde til refleksjon og kritisk tenkning, ofte med et personlig eller samfunnsmessig perspektiv.
+
+
+
+Fenomenologi og diskursanalyse er to måter å lese og analysere data på. Under hvilken av de tre nevnte standardmåtene (bokstavelig, tolkende, refleksiv) finner vi fenomenologi og diskursanalyse?
+?
+Under tolkende lesing av tekst.
+
+Hva mener vi med diskurser?
+?
+En diskurs er et sett med begreper, problemstillinger og formuleringer som ligger nedfelt i språket, og som alle medlemmer av en kultur deler (s. 156)
+
+## Oppgave B
+
+Beskriv hvordan man kan jobbe med koding.
+?
+Man kan analysere teksten systematisk å se mønstre i den ved å gi "koder" til tekst, som beskriver et fenomen. Fenomen -> Tema -> Kategori -> underkode -> kode -> Data
+Koder er korte beskrivelser eller etiketter som representerer spesifikke ideer, temaer eller mønstre i teksten. Så sammenligner man og tolker tekst, jfr. datareduksjon.
+
+
+Hva er forskjellen på induktive og deduktive koder?
+?
+Induktiv koding er når koder skapes utfra dataen som gjennomgås.
+Deduktiv koding er når kodene er forhåndsbestemt ut i fra teori.
